@@ -1,0 +1,19 @@
+	{
+	"brand":"Toyota",
+	"colors":[
+	"red",
+	"black",
+	"grey"
+	],
+	"engine":{
+	"compressionRatio":"11.8:1",
+	"rpm":2100,
+	"volume":2.3
+	},
+	"maxSpeed":{
+	"unit":"km/hour",
+	"value":250
+	},
+	"model":"Land Cruiser",
+	"seatingCapacity":4
+	}
